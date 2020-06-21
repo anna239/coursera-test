@@ -1,0 +1,16 @@
+.menu-item {
+    text-align: center;
+    border-bottom: gray solid;
+}
+
+#nav-list {
+    margin: 0 -15px;
+}
+
+#container-div {
+    padding: 50px;
+}
+
+.main-content {
+    background-color: yellow;
+}
